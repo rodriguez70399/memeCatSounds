@@ -4,7 +4,7 @@
 
 ## Requisitos del Sistema
 
-Para ejecutar este proyecto de manera local, asegúrate de tener un servidor web local configurado. Puedes utilizar herramientas como XAMPP o Live Server en Visual Studio Code.
+Para ejecutar este proyecto de manera local, asegúrate de tener un servidor web local configurado. Puedes utilizar herramientas como ***XAMPP*** o ***Live Server*** en Visual Studio Code.
 
 ## Configuración del Proyecto
 
